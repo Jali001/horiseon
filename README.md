@@ -21,5 +21,4 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-
-<img width="1440" alt="Screen Shot 2022-09-01 at 12 19 18 PM" src="https://user-images.githubusercontent.com/110860336/187963932-59c8207d-f15c-46ad-88e4-39116e3edaca.png">
+![Website Screenshott](/images/website screenshot.png)
